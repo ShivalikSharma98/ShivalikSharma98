@@ -10,7 +10,7 @@
 
 
 ### Hi there, I'm Shiv 👋
-- I am currently working on a react based project for a Restaurant.
+- I am currently working on a react based project for a Restaurant
 - I am currently learning the basics of backend development
 - I am looking to collaborate on some projects for small businesses and incorporating back end
 
