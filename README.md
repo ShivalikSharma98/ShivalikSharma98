@@ -10,8 +10,7 @@
 
 
 ### Hi there, I'm Shiv 👋
-- I am currently learning typescript
-- I am looking to collaborate on some projects using typescript or vue
+- I am currently learning Java
 
 <!--
 **ShivalikSharma98/ShivalikSharma98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
