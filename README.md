@@ -1,16 +1,5 @@
-[![ShivalikSharma98 GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivalikSharma98)](https://github.com/ShivalikSharma98/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivalikSharma98&layout=compact)](https://github.com/ShivalikSharma98/github-readme-stats)
-
-
-
-
-
-
-
-
 ### Hi there, I'm Shiv 👋
-- I am currently learning Java
+- I am currently practicing Java and Data Structures/Algorithms
 
 <!--
 **ShivalikSharma98/ShivalikSharma98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
